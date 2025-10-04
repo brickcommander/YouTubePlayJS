@@ -1,4 +1,0 @@
-## using Rest Client By Huachao Mao in VS Code Extension
-
-POST http://localhost:8000/api/v1/users/register
-
